@@ -2,13 +2,11 @@
 
 Math-for-Computational-Design
 
-
 Estudos de conceitos matemáticos fundamentais para métodos computacionais aplicados a modelagem 3-D e computação gráfica.
 
 Studies of mathematical concepts fundamental to computational design required for the effective development of computational methods for 3-D modeling and computer graphics.
 
 ---
-
 
 
 ## 01. Vetores
@@ -25,3 +23,5 @@ Studies of mathematical concepts fundamental to computational design required fo
 ## Referência
 
 1. [Essential Mathematics for Computational Design](https://developer.rhino3d.com/guides/general/essential-mathematics/)
+
+2.[Essential Mathematics for Computational Design](https://wiki.mcneel.com/rhino/home/essentialmathematics)
