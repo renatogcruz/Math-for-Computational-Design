@@ -24,4 +24,4 @@ Studies of mathematical concepts fundamental to computational design required fo
 
 1. [Essential Mathematics for Computational Design](https://developer.rhino3d.com/guides/general/essential-mathematics/)
 
-2.[Essential Mathematics for Computational Design](https://wiki.mcneel.com/rhino/home/essentialmathematics)
+2. [Essential Mathematics for Computational Design](https://wiki.mcneel.com/rhino/home/essentialmathematics)
